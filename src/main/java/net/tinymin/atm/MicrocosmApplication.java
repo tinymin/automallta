@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AutomalltaApplication {
+public class MicrocosmApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AutomalltaApplication.class, args);
+        SpringApplication.run(MicrocosmApplication.class, args);
     }
 
 }
